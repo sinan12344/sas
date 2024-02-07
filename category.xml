@@ -1,0 +1,1462 @@
+<?xml version="1.0" ?>
+<ArrayOfCategory xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/CoasterAPI.Products">
+	<Category>
+		<CategoryCode>CA-1004</CategoryCode>
+		<CategoryName>Bedroom</CategoryName>
+		<SubCategoryList>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-1565</PieceCode>
+						<PieceName>Adjustable Beds</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1393</PieceCode>
+						<PieceName>Bed Frames</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-1050</SubCategoryCode>
+				<SubCategoryName>Adjustable Beds &amp; Bed Frames</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-1972</PieceCode>
+						<PieceName>2 Pc Set</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1852</PieceCode>
+						<PieceName>3 Pc Set</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1851</PieceCode>
+						<PieceName>4 Pc Set</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1850</PieceCode>
+						<PieceName>5 Pc Set</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1953</PieceCode>
+						<PieceName>6 Pc Set</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-1351</SubCategoryCode>
+				<SubCategoryName>Bedroom Sets</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-1408</PieceCode>
+						<PieceName>CAL KING BED</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1414</PieceCode>
+						<PieceName>CAL KING BED</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1415</PieceCode>
+						<PieceName>EASTERN KING BED</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1409</PieceCode>
+						<PieceName>EASTERN KING BED</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1410</PieceCode>
+						<PieceName>FULL BED</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1416</PieceCode>
+						<PieceName>FULL BED</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1655</PieceCode>
+						<PieceName>HB PANEL</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1814</PieceCode>
+						<PieceName>Metal Cal King Beds</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1815</PieceCode>
+						<PieceName>Metal Eastern King Beds</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1812</PieceCode>
+						<PieceName>Metal Queen Beds</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1417</PieceCode>
+						<PieceName>QUEEN BED</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1412</PieceCode>
+						<PieceName>QUEEN BED</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1413</PieceCode>
+						<PieceName>TWIN BED</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1418</PieceCode>
+						<PieceName>TWIN BED</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1701</PieceCode>
+						<PieceName>TWIN XL BED</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1808</PieceCode>
+						<PieceName>Upholstered Cal King Beds</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1806</PieceCode>
+						<PieceName>Upholstered Eastern King Beds</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1807</PieceCode>
+						<PieceName>Upholstered Queen Beds</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1842</PieceCode>
+						<PieceName>Upholstered Wall Bed Panel</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1809</PieceCode>
+						<PieceName>Wooden Cal King Beds</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1811</PieceCode>
+						<PieceName>Wooden Eastern King Beds</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1948</PieceCode>
+						<PieceName>WOODEN MEDIA CHEST</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1810</PieceCode>
+						<PieceName>Wooden Queen Beds</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1887</PieceCode>
+						<PieceName>Wooden Wall Bed Panel</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-1385</SubCategoryCode>
+				<SubCategoryName>Beds</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList/>
+				<SubCategoryCode>SC-2411</SubCategoryCode>
+				<SubCategoryName>Beds &amp; Headboards</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-1849</PieceCode>
+						<PieceName>Shoe Tower</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1801</PieceCode>
+						<PieceName>Upholstered Chest</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1950</PieceCode>
+						<PieceName>Wardrobe Cabinet</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1799</PieceCode>
+						<PieceName>Wooden Chest</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1900</PieceCode>
+						<PieceName>Wooden Media Chest</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-1382</SubCategoryCode>
+				<SubCategoryName>Chests</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-1406</PieceCode>
+						<PieceName>Daybeds</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1407</PieceCode>
+						<PieceName>Trundles</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-1164</SubCategoryCode>
+				<SubCategoryName>Daybeds</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2373</PieceCode>
+						<PieceName>Dresser Mirrors</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1802</PieceCode>
+						<PieceName>Upholstered Dressers</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1800</PieceCode>
+						<PieceName>Wooden Dressers</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-1381</SubCategoryCode>
+				<SubCategoryName>Dressers &amp; Dresser Mirrors</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-1835</PieceCode>
+						<PieceName>Metal Cal King Headboard</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1836</PieceCode>
+						<PieceName>Metal Eastern King Headboard</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1805</PieceCode>
+						<PieceName>METAL HEADBOARDS</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1837</PieceCode>
+						<PieceName>Metal Queen Headboard</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1823</PieceCode>
+						<PieceName>Upholstered Cal King Headboard</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1824</PieceCode>
+						<PieceName>Upholstered Eastern King Headboard</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1826</PieceCode>
+						<PieceName>Upholstered Full Headboard</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1588</PieceCode>
+						<PieceName>UPHOLSTERED HEADBOARD</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1822</PieceCode>
+						<PieceName>Upholstered Queen Headboard</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1832</PieceCode>
+						<PieceName>Upholstered Twin Headboard</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1827</PieceCode>
+						<PieceName>Wooden Cal King Headboard</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1828</PieceCode>
+						<PieceName>Wooden Eastern King Headboard</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1830</PieceCode>
+						<PieceName>Wooden Full Headboard</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1829</PieceCode>
+						<PieceName>Wooden Queen Headboard</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-1391</SubCategoryCode>
+				<SubCategoryName>Headboards</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2369</PieceCode>
+						<PieceName>Jewelry Armoires</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1846</PieceCode>
+						<PieceName>Vanity Mirrors</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1844</PieceCode>
+						<PieceName>Vanity Sets</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1847</PieceCode>
+						<PieceName>Vanity Stools</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1845</PieceCode>
+						<PieceName>Vanity Tables</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-1392</SubCategoryCode>
+				<SubCategoryName>Makeup Vanities &amp; Jewelry Armoires</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2368</PieceCode>
+						<PieceName>Foundations</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1394</PieceCode>
+						<PieceName>Mattresses</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1395</PieceCode>
+						<PieceName>Pillow</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-1312</SubCategoryCode>
+				<SubCategoryName>Mattresses &amp; Foundations</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-1819</PieceCode>
+						<PieceName>Metal Nightstands</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1825</PieceCode>
+						<PieceName>Upholstered Nightstands</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1669</PieceCode>
+						<PieceName>Wooden Nightstands</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-1358</SubCategoryCode>
+				<SubCategoryName>Nightstands</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2372</PieceCode>
+						<PieceName>Cedar Chests</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2371</PieceCode>
+						<PieceName>Trunks</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-2370</SubCategoryCode>
+				<SubCategoryName>Trunks &amp; Cedar Chests</SubCategoryName>
+			</SubCategory>
+		</SubCategoryList>
+	</Category>
+	<Category>
+		<CategoryCode>CA-1005</CategoryCode>
+		<CategoryName>Kids Room</CategoryName>
+		<SubCategoryList>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2125</PieceCode>
+						<PieceName>Metal Full Full Bunk Beds</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2129</PieceCode>
+						<PieceName>Metal Full Loft Beds</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2126</PieceCode>
+						<PieceName>Metal Triple Bunk Bunk Beds</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2124</PieceCode>
+						<PieceName>Metal Twin Full Bunk Beds</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2128</PieceCode>
+						<PieceName>Metal Twin Loft Beds</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2123</PieceCode>
+						<PieceName>Metal Twin Twin Bunk Beds</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2131</PieceCode>
+						<PieceName>Pad</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2136</PieceCode>
+						<PieceName>Slat Kits</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2132</PieceCode>
+						<PieceName>Storage Trundle</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2133</PieceCode>
+						<PieceName>Trundle</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2130</PieceCode>
+						<PieceName>Under Bed Storage</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2118</PieceCode>
+						<PieceName>Wooden Full Full Bunk Beds</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2119</PieceCode>
+						<PieceName>Wooden Triple Bunk Bunk Beds</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2117</PieceCode>
+						<PieceName>Wooden Twin Full Bunk Beds</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2127</PieceCode>
+						<PieceName>Wooden Twin Loft Beds</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2116</PieceCode>
+						<PieceName>Wooden Twin Twin Bunk Beds</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-2093</SubCategoryCode>
+				<SubCategoryName>Bunk &amp; Loft Beds</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2169</PieceCode>
+						<PieceName>2 Pc Set</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2170</PieceCode>
+						<PieceName>3 Pc Set</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2171</PieceCode>
+						<PieceName>4 Pc Set</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2172</PieceCode>
+						<PieceName>5 Pc Set</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-2105</SubCategoryCode>
+				<SubCategoryName>Youth Bedroom Sets</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2140</PieceCode>
+						<PieceName>Metal Full Beds</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2142</PieceCode>
+						<PieceName>Metal Twin Beds</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2145</PieceCode>
+						<PieceName>Trundle</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2146</PieceCode>
+						<PieceName>Under Bed Storage</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2143</PieceCode>
+						<PieceName>Upholstered Full Beds</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2144</PieceCode>
+						<PieceName>Upholstered Twin Beds</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2138</PieceCode>
+						<PieceName>Wooden Full Beds</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2137</PieceCode>
+						<PieceName>Wooden Twin Beds</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-2090</SubCategoryCode>
+				<SubCategoryName>Youth Beds</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2149</PieceCode>
+						<PieceName>Metal Chest</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2148</PieceCode>
+						<PieceName>Wooden Chest</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-2094</SubCategoryCode>
+				<SubCategoryName>Youth Chests</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2374</PieceCode>
+						<PieceName>Dresser Mirrors</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2150</PieceCode>
+						<PieceName>Dressers</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-2095</SubCategoryCode>
+				<SubCategoryName>Youth Dressers &amp; Dresser Mirrors</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2108</PieceCode>
+						<PieceName> Upholstered Twin Headboard</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2110</PieceCode>
+						<PieceName>Metal Twin Headboard</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2109</PieceCode>
+						<PieceName>Upholstered Full Headboard</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2107</PieceCode>
+						<PieceName>Wooden Full Headboard</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2106</PieceCode>
+						<PieceName>Wooden Twin Headboard</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-2089</SubCategoryCode>
+				<SubCategoryName>Youth Headboards</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2160</PieceCode>
+						<PieceName>Metal Nightstands</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2159</PieceCode>
+						<PieceName>Wooden Nightstands</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-2099</SubCategoryCode>
+				<SubCategoryName>Youth Nightstands</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2164</PieceCode>
+						<PieceName> Table &amp; Chair Sets</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-2102</SubCategoryCode>
+				<SubCategoryName>Youth Table &amp; Chair Sets</SubCategoryName>
+			</SubCategory>
+		</SubCategoryList>
+	</Category>
+	<Category>
+		<CategoryCode>CA-1011</CategoryCode>
+		<CategoryName>Living Room</CategoryName>
+		<SubCategoryList>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2384</PieceCode>
+						<PieceName>Accent Cabinets</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2383</PieceCode>
+						<PieceName>Console Tables</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2385</PieceCode>
+						<PieceName>Curio Cabinets</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-2382</SubCategoryCode>
+				<SubCategoryName>Cabinets &amp; Consoles</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2268</PieceCode>
+						<PieceName>Accent Chairs</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2290</PieceCode>
+						<PieceName>Accent Stools</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2270</PieceCode>
+						<PieceName>Chaise Lounge Chairs</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2341</PieceCode>
+						<PieceName>Power Recliners</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2271</PieceCode>
+						<PieceName>Recliners</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2272</PieceCode>
+						<PieceName>Rocking Chairs</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2273</PieceCode>
+						<PieceName>Theater Seating</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-2267</SubCategoryCode>
+				<SubCategoryName>Chairs &amp; Seating</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2278</PieceCode>
+						<PieceName>Coffee Table Sets</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2279</PieceCode>
+						<PieceName>Coffee Tables</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2280</PieceCode>
+						<PieceName>End &amp; Side Tables</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2281</PieceCode>
+						<PieceName>Nesting Tables</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2283</PieceCode>
+						<PieceName>TV Trays</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-2277</SubCategoryCode>
+				<SubCategoryName>Coffee Tables &amp; End Tables</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2319</PieceCode>
+						<PieceName>Electric Fireplaces</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-2318</SubCategoryCode>
+				<SubCategoryName>Electric Fireplaces</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2410</PieceCode>
+						<PieceName>Entertainment Center Components</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-2409</SubCategoryCode>
+				<SubCategoryName>Entertainment Center Components</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2321</PieceCode>
+						<PieceName>Power Reclining 2 Pc Sets</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2322</PieceCode>
+						<PieceName>Power Reclining 3 Pc Sets</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2323</PieceCode>
+						<PieceName>Reclining 2 Pc Sets</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2324</PieceCode>
+						<PieceName>Reclining 3 Pc Sets</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2325</PieceCode>
+						<PieceName>Stationary 2 Pc Sets</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2326</PieceCode>
+						<PieceName>Stationary 3 Pc Sets</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2327</PieceCode>
+						<PieceName>Stationary 4 Pc Sets</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-1352</SubCategoryCode>
+				<SubCategoryName>Living Room Sets</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2328</PieceCode>
+						<PieceName>Power Reclining Loveseats</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2329</PieceCode>
+						<PieceName>Reclining Loveseats</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2330</PieceCode>
+						<PieceName>Stationary Loveseats</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-2025</SubCategoryCode>
+				<SubCategoryName>Loveseats</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2381</PieceCode>
+						<PieceName>Modular Reclining Sectional Components</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2380</PieceCode>
+						<PieceName>Modular Sectional Components</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-2379</SubCategoryCode>
+				<SubCategoryName>Modular Sectional Components</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2054</PieceCode>
+						<PieceName>Ottomans</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2061</PieceCode>
+						<PieceName>Poufs</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-2053</SubCategoryCode>
+				<SubCategoryName>Ottomans &amp; Poufs</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2347</PieceCode>
+						<PieceName>3-Panel Room Dividers</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2348</PieceCode>
+						<PieceName>4-Panel Room Dividers</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-2316</SubCategoryCode>
+				<SubCategoryName>Room Dividers</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2339</PieceCode>
+						<PieceName>Modular Sectionals</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2338</PieceCode>
+						<PieceName>Reclining Sectionals</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2340</PieceCode>
+						<PieceName>Sleeper Sectionals</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2310</PieceCode>
+						<PieceName>Stationary Sectionals</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-1330</SubCategoryCode>
+				<SubCategoryName>Sectionals</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2287</PieceCode>
+						<PieceName>Futon Frames</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2288</PieceCode>
+						<PieceName>Futon Mattresses</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2289</PieceCode>
+						<PieceName>Sofa Beds</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-2286</SubCategoryCode>
+				<SubCategoryName>Sofa Beds &amp; Futons</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2333</PieceCode>
+						<PieceName>Power Reclining Sofas</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2334</PieceCode>
+						<PieceName>Reclining Sofas</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2336</PieceCode>
+						<PieceName>Stationary Sofas</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-2021</SubCategoryCode>
+				<SubCategoryName>Sofas</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2408</PieceCode>
+						<PieceName>Theater Seating Components</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-2407</SubCategoryCode>
+				<SubCategoryName>Theater Seating Components</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2312</PieceCode>
+						<PieceName>Entertainment Centers</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2314</PieceCode>
+						<PieceName>Media Tower</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2315</PieceCode>
+						<PieceName>TV Stands</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-2311</SubCategoryCode>
+				<SubCategoryName>TV Stands &amp; Media Storage</SubCategoryName>
+			</SubCategory>
+		</SubCategoryList>
+	</Category>
+	<Category>
+		<CategoryCode>CA-1006</CategoryCode>
+		<CategoryName>Dining Room</CategoryName>
+		<SubCategoryList>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2360</PieceCode>
+						<PieceName>Bar Carts</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-2358</SubCategoryCode>
+				<SubCategoryName>Bar Carts</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2244</PieceCode>
+						<PieceName>Adjustable Bar Stools</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2246</PieceCode>
+						<PieceName>Bar Stools</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2357</PieceCode>
+						<PieceName>Counter Stools</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-2242</SubCategoryCode>
+				<SubCategoryName>Counter &amp; Bar Stools</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-1444</PieceCode>
+						<PieceName>3 PC SET</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1650</PieceCode>
+						<PieceName>4 PC SET</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1445</PieceCode>
+						<PieceName>5 PC SET</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1651</PieceCode>
+						<PieceName>7 PC SET</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1446</PieceCode>
+						<PieceName>BENCH</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1447</PieceCode>
+						<PieceName>BUFFET</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1448</PieceCode>
+						<PieceName>BUFFET / HUTCH</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1449</PieceCode>
+						<PieceName>CORNER BENCH</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1450</PieceCode>
+						<PieceName>COUNTER HT CHAIR</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1904</PieceCode>
+						<PieceName>COUNTER HT DINING</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1451</PieceCode>
+						<PieceName>COUNTER HT TABLE</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1452</PieceCode>
+						<PieceName>COUNTER HT TABLE BASE</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1453</PieceCode>
+						<PieceName>SERVER</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1583</PieceCode>
+						<PieceName>SERVER/CHINA</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-1020</SubCategoryCode>
+				<SubCategoryName>COUNTER HT DINING</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-1895</PieceCode>
+						<PieceName>DINING TABLE</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-1894</SubCategoryCode>
+				<SubCategoryName>DINETTE</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-1881</PieceCode>
+						<PieceName>Arm Chairs</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2356</PieceCode>
+						<PieceName>Benches</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2359</PieceCode>
+						<PieceName>Side Chairs</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-1325</SubCategoryCode>
+				<SubCategoryName>Dining Chairs &amp; Benches</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2350</PieceCode>
+						<PieceName>3 Pc Bar Sets</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1898</PieceCode>
+						<PieceName>3 Pc Counter Height Dining Sets</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1875</PieceCode>
+						<PieceName>3 Pc Dining Sets</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1892</PieceCode>
+						<PieceName>4 Pc Counter Height Dining Sets</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2403</PieceCode>
+						<PieceName>4 Pc Dining Sets</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2352</PieceCode>
+						<PieceName>5 Pc Bar Sets</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1891</PieceCode>
+						<PieceName>5 Pc Counter Height Dining Sets</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1876</PieceCode>
+						<PieceName>5 Pc Dining Sets</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1877</PieceCode>
+						<PieceName>6 Pc Dining Sets</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1893</PieceCode>
+						<PieceName>7 Pc Counter Height Dining Sets</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1878</PieceCode>
+						<PieceName>7 Pc Dining Sets</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2378</PieceCode>
+						<PieceName>8 Pc Dining Sets</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1899</PieceCode>
+						<PieceName>9 Pc Counter Height Dining Sets</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1880</PieceCode>
+						<PieceName>9 Pc Dining Sets</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-1874</SubCategoryCode>
+				<SubCategoryName>Dining Room Sets</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-1978</PieceCode>
+						<PieceName>3 PC COUNTER HT DINING SETS</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1979</PieceCode>
+						<PieceName>3 PC SET</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2355</PieceCode>
+						<PieceName>Bar Tables</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2377</PieceCode>
+						<PieceName>Counter Height Dining Table Bases</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2354</PieceCode>
+						<PieceName>Counter Height Dining Tables</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1865</PieceCode>
+						<PieceName>Dining Table Bases</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2353</PieceCode>
+						<PieceName>Dining Tables</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-1853</SubCategoryCode>
+				<SubCategoryName>Dining Room Tables</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-1470</PieceCode>
+						<PieceName>ARM CHAIR</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1471</PieceCode>
+						<PieceName>BENCH</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1628</PieceCode>
+						<PieceName>CONSOLE SERVER</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1668</PieceCode>
+						<PieceName>CORNER</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1472</PieceCode>
+						<PieceName>CURIO</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1586</PieceCode>
+						<PieceName>DINING CHAIR</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1473</PieceCode>
+						<PieceName>DINING TABLE</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1474</PieceCode>
+						<PieceName>DINING TABLE BASE</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1475</PieceCode>
+						<PieceName>SERVER</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1582</PieceCode>
+						<PieceName>SERVER/CHINA</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1476</PieceCode>
+						<PieceName>SIDE CHAIR</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-1055</SubCategoryCode>
+				<SubCategoryName>EVERYDAY DINING</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-1459</PieceCode>
+						<PieceName>ARM CHAIR</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1460</PieceCode>
+						<PieceName>BENCH</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1461</PieceCode>
+						<PieceName>BUFFET</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1462</PieceCode>
+						<PieceName>BUFFET / HUTCH</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1463</PieceCode>
+						<PieceName>DINING TABLE</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1464</PieceCode>
+						<PieceName>DINING TABLE BASE</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1465</PieceCode>
+						<PieceName>SERVER</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1575</PieceCode>
+						<PieceName>SERVER / CHINA</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1466</PieceCode>
+						<PieceName>SIDE CHAIR</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-1326</SubCategoryCode>
+				<SubCategoryName>FORMAL DINING</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2376</PieceCode>
+						<PieceName>5 Pc Game Table Sets</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2367</PieceCode>
+						<PieceName>Game Chairs</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2366</PieceCode>
+						<PieceName>Game Tables</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-2365</SubCategoryCode>
+				<SubCategoryName>Game Tables &amp; Chairs</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-1569</PieceCode>
+						<PieceName>Glass Tops</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-1221</SubCategoryCode>
+				<SubCategoryName>Glass Tops</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2258</PieceCode>
+						<PieceName>Bar &amp; Wine Cabinets</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2256</PieceCode>
+						<PieceName>Home Bars</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-2255</SubCategoryCode>
+				<SubCategoryName>Home Bars &amp; Wine Cabinets</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-1469</PieceCode>
+						<PieceName>Kitchen Carts</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1468</PieceCode>
+						<PieceName>Kitchen Islands</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-1047</SubCategoryCode>
+				<SubCategoryName>Kitchen Islands &amp; Carts</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2406</PieceCode>
+						<PieceName>Buffet &amp; Hutches</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1869</PieceCode>
+						<PieceName>Sideboards</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-1868</SubCategoryCode>
+				<SubCategoryName>Sideboard &amp; Servers</SubCategoryName>
+			</SubCategory>
+		</SubCategoryList>
+	</Category>
+	<Category>
+		<CategoryCode>CA-1012</CategoryCode>
+		<CategoryName>Home Office</CategoryName>
+		<SubCategoryList>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-1763</PieceCode>
+						<PieceName>Bookcases</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2346</PieceCode>
+						<PieceName>Bookshelf</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2349</PieceCode>
+						<PieceName>Console Bookcases</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1762</PieceCode>
+						<PieceName>Wall Shelves</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-1374</SubCategoryCode>
+				<SubCategoryName>Bookcases</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-1477</PieceCode>
+						<PieceName>Cart</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1478</PieceCode>
+						<PieceName>Dvd Rack</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2345</PieceCode>
+						<PieceName>Laptop Stands</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1480</PieceCode>
+						<PieceName>Magazine Rack</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-1328</SubCategoryCode>
+				<SubCategoryName>Carts &amp; Stands</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-1481</PieceCode>
+						<PieceName>Computer Desks</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2343</PieceCode>
+						<PieceName>Credenza Desk &amp; Hutches</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1793</PieceCode>
+						<PieceName>Desk Returns</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1483</PieceCode>
+						<PieceName>Desk Sets</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1484</PieceCode>
+						<PieceName>Drafting Tables</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2344</PieceCode>
+						<PieceName>Executive Desks</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1760</PieceCode>
+						<PieceName>Gaming Desks</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1688</PieceCode>
+						<PieceName>L-Shape Desks</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1486</PieceCode>
+						<PieceName>Secretary Desks</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1645</PieceCode>
+						<PieceName>Standing Desks</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1488</PieceCode>
+						<PieceName>Writing Desks</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2375</PieceCode>
+						<PieceName>Youth Desk &amp; Hutches</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-1041</SubCategoryCode>
+				<SubCategoryName>Desks</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-1500</PieceCode>
+						<PieceName>Office Chairs</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-1251</SubCategoryCode>
+				<SubCategoryName>Office Chairs</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-1796</PieceCode>
+						<PieceName>Credenzas</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1687</PieceCode>
+						<PieceName>Filing Cabinets</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-1689</PieceCode>
+						<PieceName>Storage Cabinets</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-1359</SubCategoryCode>
+				<SubCategoryName>Office Storage</SubCategoryName>
+			</SubCategory>
+		</SubCategoryList>
+	</Category>
+	<Category>
+		<CategoryCode>CA-2199</CategoryCode>
+		<CategoryName>Entryway &amp; Decor</CategoryName>
+		<SubCategoryList>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2209</PieceCode>
+						<PieceName>Benches</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2211</PieceCode>
+						<PieceName>Shoe Cabinets</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2210</PieceCode>
+						<PieceName>Storage Benches</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-2204</SubCategoryCode>
+				<SubCategoryName>Benches &amp; Shoe Storage</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2397</PieceCode>
+						<PieceName>Grandfather Clocks</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2396</PieceCode>
+						<PieceName>Wall Clocks</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-2395</SubCategoryCode>
+				<SubCategoryName>Clocks</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2213</PieceCode>
+						<PieceName>Coat Racks</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-2212</SubCategoryCode>
+				<SubCategoryName>Coat Racks</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2205</PieceCode>
+						<PieceName>Hall Trees</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-2202</SubCategoryCode>
+				<SubCategoryName>Hall Trees</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2394</PieceCode>
+						<PieceName>Floor Lamps</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2392</PieceCode>
+						<PieceName>Lamp Sets</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2393</PieceCode>
+						<PieceName>Table Lamps</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-2391</SubCategoryCode>
+				<SubCategoryName>Lamps</SubCategoryName>
+			</SubCategory>
+			<SubCategory>
+				<PieceList>
+					<Piece>
+						<PieceCode>PC-2389</PieceCode>
+						<PieceName>Cheval Mirrors</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2387</PieceCode>
+						<PieceName>Floor Mirrors</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2388</PieceCode>
+						<PieceName>Standing Mirrors</PieceName>
+					</Piece>
+					<Piece>
+						<PieceCode>PC-2390</PieceCode>
+						<PieceName>Wall Mirrors</PieceName>
+					</Piece>
+				</PieceList>
+				<SubCategoryCode>SC-2386</SubCategoryCode>
+				<SubCategoryName>Mirrors</SubCategoryName>
+			</SubCategory>
+		</SubCategoryList>
+	</Category>
+</ArrayOfCategory>
